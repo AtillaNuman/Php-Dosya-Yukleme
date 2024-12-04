@@ -1,0 +1,16 @@
+# Veritabanı bağlantı dosyaları
+db.php
+
+# Gizli dizinler veya yapılandırma dosyaları
+.env
+config/
+
+# Önbellek veya geçici dosyalar
+*.log
+*.cache
+*.bak
+
+# IDE veya işletim sistemi tarafından oluşturulan dosyalar
+.vscode/
+*.DS_Store
+Thumbs.db
